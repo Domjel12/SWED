@@ -1,0 +1,11 @@
+WebsiteMonitorApp.class
+WebsiteComparisonStrategy.class
+Observer.class
+NotificationPreferences.class
+ContentSizeComparisonStrategy.class
+User.class
+Subject.class
+Subscription.class
+TextContentComparisonStrategy.class
+Website.class
+HtmlContentComparisonStrategy.class
