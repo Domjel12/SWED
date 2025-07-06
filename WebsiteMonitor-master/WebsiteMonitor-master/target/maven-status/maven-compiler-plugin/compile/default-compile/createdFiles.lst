@@ -1,0 +1,14 @@
+de/frauas/Channels/WebhookChannel.class
+de/frauas/comparison/HtmlContentComparison.class
+de/frauas/Channels/SmsChannel.class
+de/frauas/Subscription.class
+de/frauas/User.class
+de/frauas/Settings.class
+de/frauas/Channels/IResponseChannel.class
+de/frauas/Channels/MailChannel.class
+de/frauas/comparison/TextContentComparison.class
+de/frauas/Observer/Subject.class
+de/frauas/Observer/Observer.class
+de/frauas/comparison/ContentSizeComparison.class
+de/frauas/comparison/WebsiteComparisonStrategy.class
+de/frauas/WebsiteMonitor.class

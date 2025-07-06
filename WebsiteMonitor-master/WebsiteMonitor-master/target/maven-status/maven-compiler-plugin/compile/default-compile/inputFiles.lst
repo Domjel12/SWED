@@ -1,0 +1,14 @@
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Channels/IResponseChannel.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Channels/MailChannel.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Channels/SmsChannel.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Channels/WebhookChannel.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Observer/Observer.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Observer/Subject.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Settings.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/Subscription.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/User.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/WebsiteMonitor.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/comparison/ContentSizeComparison.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/comparison/HtmlContentComparison.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/comparison/TextContentComparison.java
+/Users/dominikjelen/Documents/SWED/sonstiges/WebsiteMonitor-master/WebsiteMonitor-master/src/main/java/de/frauas/comparison/WebsiteComparisonStrategy.java
